@@ -1,4 +1,4 @@
-datagamer
+DataGamer
 =========
 
-API for a participative video games database
+API for a participative video games database.
