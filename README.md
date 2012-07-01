@@ -1,6 +1,6 @@
 DataGamer
 =========
 
-<a href="">datagamer.fr</a>
+Web site : <a href="http://datagamer.fr">datagamer.fr</a>
 
 API for a participative video games database.
