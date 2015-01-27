@@ -1,4 +1,4 @@
-DataGamer
+DataGamer v1
 =========
 DataGamer, to gamers from gamers<br>
 Participative video games database, for your web site.
