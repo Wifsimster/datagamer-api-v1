@@ -13,3 +13,5 @@ So why not build together your own database for everyone ?
 =========
 <br>
 Is the main goal of DataGamer ! You can participate to build a public video games database.
+
+** Please, refer to the new V2 here : https://github.com/Wifsimster/datagamer-api-v2**
