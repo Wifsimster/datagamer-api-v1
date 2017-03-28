@@ -1,3 +1,5 @@
+**This project is obselete !**
+
 DataGamer v1
 =========
 DataGamer, to gamers from gamers<br>
