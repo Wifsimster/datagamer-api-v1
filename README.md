@@ -11,9 +11,8 @@ Many video games web site maintain their own database.<br>
 The problem is that no web site gives a free access to their database !<br>
 Developers who want to set up video games web site need automatically to build a database.
 
-So why not build together your own database for everyone ?
-=========
-<br>
+### So why not build together your own database for everyone ?
+
 Is the main goal of DataGamer ! You can participate to build a public video games database.
 
 **Please, refer to the new V2 here : https://github.com/Wifsimster/datagamer-api-v2**
