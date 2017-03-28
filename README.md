@@ -13,6 +13,6 @@ Developers who want to set up video games web site need automatically to build a
 
 ### So why not build together your own database for everyone ?
 
-Is the main goal of DataGamer ! You can participate to build a public video games database.
+This is the main goal of DataGamer ! You can participate to build a public video games database.
 
 **Please, refer to the new V2 here : https://github.com/Wifsimster/datagamer-api-v2**
