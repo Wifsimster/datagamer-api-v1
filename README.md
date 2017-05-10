@@ -1,4 +1,4 @@
-**This project is obselete !**
+> This project is obselete !
 
 DataGamer v1
 =========
